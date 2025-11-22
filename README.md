@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats (Auto Light/Dark Mode)
+### 📊 GitHub Stats 
 
 #### 🔥 Streak Stats
 <picture>
