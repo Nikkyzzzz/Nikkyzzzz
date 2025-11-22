@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkyzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="nikkyzzzz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkyzzzz" alt="nikkyzzzz" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning,Deep Learning and transformers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikkyzzzz](https://github.com/Nikkyzzzz)
