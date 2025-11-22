@@ -67,13 +67,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikkyzzzz/nikkyzzzz/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <div align="center">
   
